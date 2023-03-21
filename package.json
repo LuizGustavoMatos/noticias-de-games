@@ -1,0 +1,17 @@
+{
+  "name": "noticias-jogos-backend",
+  "version": "1.0.0",
+  "description": "O back-end de um site sobre noticias de jogos.",
+  "main": "index.js",
+  "keywords": [
+    "jogos",
+    "noticias",
+    "node.js",
+    "etec"
+  ],
+  "author":"Luiz Gustavo Silva de Matos",
+
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
