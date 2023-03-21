@@ -1,0 +1,3 @@
+O projeto é o back-end de um site sobre noticias de jogos de todos os generos.
+
+Link do repositório:https://github.com/LuizGustavoMatos/noticias-de-games.git
